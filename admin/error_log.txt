@@ -1,0 +1,61 @@
+array (
+  'custom' => 
+  array (
+    'time' => 1598520890,
+  ),
+  'ses' => NULL,
+  'post' => 
+  array (
+  ),
+  'serv' => 
+  array (
+    'HTTP_HOST' => 'localhost',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_SEC_FETCH_SITE' => 'same-origin',
+    'HTTP_SEC_FETCH_MODE' => 'navigate',
+    'HTTP_SEC_FETCH_USER' => '?1',
+    'HTTP_SEC_FETCH_DEST' => 'document',
+    'HTTP_REFERER' => 'http://localhost/hulorix/CoolAdmin-master/table.php',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Brackets\\command;C:\\Program Files\\Git\\cmd;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps',
+    'SystemRoot' => 'C:\\Windows',
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+    'WINDIR' => 'C:\\Windows',
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.46 (Win64) PHP/7.3.21 Server at localhost Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache/2.4.46 (Win64) PHP/7.3.21',
+    'SERVER_NAME' => 'localhost',
+    'SERVER_ADDR' => '::1',
+    'SERVER_PORT' => '80',
+    'REMOTE_ADDR' => '::1',
+    'DOCUMENT_ROOT' => 'C:/wamp64/www',
+    'REQUEST_SCHEME' => 'http',
+    'CONTEXT_PREFIX' => '',
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp64/www',
+    'SERVER_ADMIN' => 'wampserver@wampserver.invalid',
+    'SCRIPT_FILENAME' => 'C:/wamp64/www/hulorix/CoolAdmin-master/guncelle.php',
+    'REMOTE_PORT' => '49783',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => 'ide=9',
+    'REQUEST_URI' => '/hulorix/CoolAdmin-master/guncelle.php?ide=9',
+    'SCRIPT_NAME' => '/hulorix/CoolAdmin-master/guncelle.php',
+    'PHP_SELF' => '/hulorix/CoolAdmin-master/guncelle.php',
+    'REQUEST_TIME_FLOAT' => 1598520890.460172,
+    'REQUEST_TIME' => 1598520890,
+  ),
+  'err' => 'Unhandled Exception. <br />SQLSTATE[42S22]: Column not found: 1054 Unknown column \'id\' in \'where clause\'<br /> DEATH FOR YOU.',
+  'query' => 'select * from urunler where id=:id',
+  'params' => 
+  array (
+    'id' => '9',
+  ),
+)
+
